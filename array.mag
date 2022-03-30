@@ -1,0 +1,40 @@
+magic
+tech sky130A
+timestamp 1647646597
+use cell_1rw  cell_1rw_8
+timestamp 1647621430
+transform 1 0 120 0 1 548
+box -124 -72 205 195
+use cell_1rw  cell_1rw_7
+timestamp 1647621430
+transform -1 0 463 0 1 548
+box -124 -72 205 195
+use cell_1rw  cell_1rw_6
+timestamp 1647621430
+transform 1 0 671 0 1 548
+box -124 -72 205 195
+use cell_1rw  cell_1rw_3
+timestamp 1647621430
+transform 1 0 671 0 1 310
+box -124 -72 205 195
+use cell_1rw  cell_1rw_4
+timestamp 1647621430
+transform -1 0 463 0 1 310
+box -124 -72 205 195
+use cell_1rw  cell_1rw_5
+timestamp 1647621430
+transform 1 0 120 0 1 310
+box -124 -72 205 195
+use cell_1rw  cell_1rw_2
+timestamp 1647621430
+transform 1 0 671 0 1 72
+box -124 -72 205 195
+use cell_1rw  cell_1rw_1
+timestamp 1647621430
+transform -1 0 463 0 1 72
+box -124 -72 205 195
+use cell_1rw  cell_1rw_0
+timestamp 1647621430
+transform 1 0 120 0 1 72
+box -124 -72 205 195
+<< end >>
